@@ -4,9 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nx/js": "16.9.0",
+    "@nx/node": "^16.9.0",
     "@nx/workspace": "16.9.0",
     "@types/node": "18.7.1",
     "nx": "16.9.0",
