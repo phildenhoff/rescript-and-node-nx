@@ -1,0 +1,8 @@
+{
+  "name": "finance",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/finance/src",
+  "projectType": "library",
+  "targets": {},
+  "tags": []
+}
