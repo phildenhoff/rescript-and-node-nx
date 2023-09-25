@@ -1,1 +1,1 @@
-export * from './lib/finance';
+export * from './TimeValue.gen.ts';
