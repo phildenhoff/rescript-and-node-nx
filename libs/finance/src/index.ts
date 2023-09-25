@@ -1,1 +1,1 @@
-export * from './TimeValue.gen.ts';
+export * from './TimeValue.gen';
