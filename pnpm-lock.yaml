@@ -22,6 +22,7 @@ specifiers:
   jest-environment-node: ^29.4.1
   nx: 16.9.0
   prettier: ^2.6.2
+  rescript: ^10.1.4
   ts-jest: ^29.1.0
   ts-node: 10.9.1
   tslib: ^2.3.0
@@ -30,6 +31,7 @@ specifiers:
 dependencies:
   axios: 1.5.0
   express: 4.18.2
+  rescript: 10.1.4
   tslib: 2.6.2
 
 devDependencies:
@@ -5318,6 +5320,12 @@ packages:
     resolution: {integrity: sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q==}
     engines: {node: '>=0.10.0'}
     dev: true
+
+  /rescript/10.1.4:
+    resolution: {integrity: sha512-FFKlS9AG/XrLepWsyw7B+A9DtQBPWEPDPDKghV831Y2KGbie+eeFBOS0xtRHp0xbt7S0N2Dm6hhX+kTZQ/3Ybg==}
+    hasBin: true
+    requiresBuild: true
+    dev: false
 
   /resolve-cwd/3.0.0:
     resolution: {integrity: sha512-OrZaX2Mb+rJCpH/6CpSqt9xFVpN++x01XnN2ie9g6P5/3xelLAkXWVADpdz1IHD/KFfEXyE6V0U01OQ3UO2rEg==}
